@@ -173,7 +173,7 @@
                 &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans
             >;
 
-            label = "GAMING LOWER";
+            label = "GL";
         };
     };
 
